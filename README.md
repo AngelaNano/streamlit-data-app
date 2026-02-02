@@ -48,5 +48,4 @@ NASA_API_KEY=your_key_here
 **Continuous Integration**: Tested locally after each sprint, deployed to Streamlit Cloud for user feedback.
 
 ## Deployment Links
-- **Live App**: [INSERT_STREAMLIT_URL_HERE]
 - **GitHub Repository**: https://github.com/AngelaNano/water-quality-dashboard
